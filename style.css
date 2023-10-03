@@ -24,5 +24,6 @@ body {
 a {
   font-family: cursive;
   color: rgb(246,224,105);
-  text-decoration: underline;
+  text-decoration: none;
+  font-style: italic;
 }
