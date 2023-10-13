@@ -2,7 +2,7 @@ h1 {
   text-transform: uppercase;
 }
 
-#meme-img {
+.meme-img {
   border: 5px solid rgb(246,224,105);
   width: 100%;
   height: 250px;
@@ -26,4 +26,11 @@ a {
   color: rgb(246,224,105);
   text-decoration: none;
   font-style: italic;
+  padding: 1px;
+
+}
+
+.meme-border {
+  border: 1px solid #D0BFFF;
+  padding: 10px 20px 0px 10px;
 }
